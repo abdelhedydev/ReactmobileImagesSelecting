@@ -1,2 +1,0 @@
-# ReactmobileImagesSelecting
-Created with CodeSandbox
