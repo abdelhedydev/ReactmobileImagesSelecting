@@ -1,4 +1,4 @@
-<import React from "react";
+import React from "react";
 import { map, indexOf, filter } from "lodash";
 import "./styles.css";
 
